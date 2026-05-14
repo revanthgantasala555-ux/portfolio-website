@@ -1,0 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  padding-top: 80px;
+}
+
+#home {
+  background: linear-gradient(to right, #007bff, #00c6ff);
+  color: white;
+}
